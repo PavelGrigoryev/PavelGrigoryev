@@ -2,7 +2,7 @@
 - 👀 I’m interested in Java
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me [...](https://pavelgrigoryev.github.io/GrigoryevPavel/)
+- 📫 How to reach me [contact](https://pavelgrigoryev.github.io/GrigoryevPavel/)
 
 <!---
 PavelGrigoryev/PavelGrigoryev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
